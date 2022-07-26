@@ -27,7 +27,7 @@ If (!(Test-Path "C:\ProgramData\OSDeploy")) {
 $AutopilotOOBEJson = @'
 {
     "Assign":  {
-                   "IsPresent":  false
+                   "IsPresent":  true
                },
     "Hidden":  [
                    "AddToGroup",
