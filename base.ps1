@@ -3,7 +3,6 @@
 #=======================================================================
 
 $Params = @{
-    OSBuild = "21H2"
     OSLanguage = "pl-pl"
     OSLicense = "Retail"
     SkipAutopilot = $true
